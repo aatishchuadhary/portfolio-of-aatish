@@ -630,21 +630,15 @@
         <h3>Send Message</h3>
 
        <!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/mlgvbbkd"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
+ <form>
+          <input type="text" placeholder="Your Name" style="width:100%;padding:14px;margin-bottom:15px;background:#081120;border:1px solid rgba(255,255,255,.08);border-radius:12px;color:white;">
+
+          <input type="email" placeholder="Your Email" style="width:100%;padding:14px;margin-bottom:15px;background:#081120;border:1px solid rgba(255,255,255,.08);border-radius:12px;color:white;">
+
+          <textarea placeholder="Your Message" style="width:100%;height:140px;padding:14px;background:#081120;border:1px solid rgba(255,255,255,.08);border-radius:12px;color:white;"></textarea>
+
+          <button class="btn btn-primary" style="margin-top:18px;border:none;cursor:pointer;">Send Message</button>
+        </form>
       </div>
 
     </div>
