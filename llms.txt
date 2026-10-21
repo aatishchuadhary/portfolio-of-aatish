@@ -1,0 +1,18 @@
+# Aatish Chaudhary
+> Backend developer from Nepal working with .NET technologies at Exolotus Pvt. Ltd. (Jawalakhel, Lalitpur). Skills: ASP.NET Core, SQL Server, REST APIs, JWT, Entity Framework, LINQ, IIS.
+
+## Pages
+- [Home](https://aatishchaudhary.com.np/)
+- [about.html](https://aatishchaudhary.com.np/about.html)
+- [skills.html](https://aatishchaudhary.com.np/skills.html)
+- [experience.html](https://aatishchaudhary.com.np/experience.html)
+- [projects.html](https://aatishchaudhary.com.np/projects.html)
+- [project-hotel-management-system.html](https://aatishchaudhary.com.np/project-hotel-management-system.html)
+- [project-enterprise-api-system.html](https://aatishchaudhary.com.np/project-enterprise-api-system.html)
+- [resume.html](https://aatishchaudhary.com.np/resume.html)
+- [blog.html](https://aatishchaudhary.com.np/blog.html)
+- [contact.html](https://aatishchaudhary.com.np/contact.html)
+
+## Facts
+- Contact: Koteshwor, Kathmandu, Nepal; +977-9807784555
+- Projects: Hotel Management System; Enterprise API System
