@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aatishchaudhary.com.np/sitemap.xml
